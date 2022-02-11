@@ -22,7 +22,7 @@ pod 'ALNTestPodProj'
 
 ## Author
 
-Shuo Chen, chenshuo@netseekgaming.com
+Shuo Chen, cncallan@126.com
 
 ## License
 
