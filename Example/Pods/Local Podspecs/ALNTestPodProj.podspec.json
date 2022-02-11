@@ -1,0 +1,22 @@
+{
+  "name": "ALNTestPodProj",
+  "version": "0.1.0",
+  "summary": "A short description of ALNTestPodProj.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Shuo Chen/ALNTestPodProj",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shuo Chen": "chenshuo@netseekgaming.com"
+  },
+  "source": {
+    "git": "https://github.com/Shuo Chen/ALNTestPodProj.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ALNTestPodProj/Classes/**/*"
+}

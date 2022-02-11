@@ -1,0 +1,6 @@
+framework module ALNTestPodProj {
+  umbrella header "ALNTestPodProj-umbrella.h"
+
+  export *
+  module * { export * }
+}

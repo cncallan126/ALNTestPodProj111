@@ -1,0 +1,27 @@
+PODS:
+  - ALNTestPodProj (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ALNTestPodProj (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ALNTestPodProj:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ALNTestPodProj: dbb20f6006bb35d357d6f39dcef9effefa5ecd3a
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 776addab675ec2a3909ed1dd0d966992e47e2f01
+
+COCOAPODS: 1.10.1
